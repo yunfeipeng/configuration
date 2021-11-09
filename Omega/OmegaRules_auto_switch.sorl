@@ -21,6 +21,7 @@ launchdarkly.com
 *.facebook.net
 *.medium.com
 *.wikipedia.org
+*.wikimedia.org
 *.github.com
 *.github.io
 *.w3schools.com
@@ -37,7 +38,6 @@ lastpass.com
 *.google.com.hk
 *.firefox.com
 *.googlesource.com
-*.ingress.com
 *.telegram.org
 *.tdesktop.com
 *.reddit.com
