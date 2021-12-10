@@ -3,22 +3,23 @@
 ; Date: 6/17/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.android.com
 *.blogspot.com
+*.fbcdn.net
+*.facebook.*
 *.google.com
 *.googleusercontent.com
-*.facebook.*
+*.google-analytics.com
+*.googletagmanager.com
 *.duckduckgo.com
 *.youtube.com
 *.gstatic.com
 *.googleapis.com
 *.imgur.com
 *.gravatar.com
-*.fbcdn.net
 *.twitter.com
 *.twimg.com
 launchdarkly.com
-*.google-analytics.com
-*.googletagmanager.com
 *.facebook.net
 *.medium.com
 *.wikipedia.org
