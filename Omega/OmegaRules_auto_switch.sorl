@@ -6,6 +6,7 @@
 autode.sk
 bit.ly
 
+*.cloudfront.net
 kodi.wiki
 *.osmc.tv
 
