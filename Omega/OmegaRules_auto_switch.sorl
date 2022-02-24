@@ -38,7 +38,7 @@ launchdarkly.com
 *.ytimg.com
 *.googlevideo.com
 *.githubassets.com
-*.cdn.office.net
+; *.cdn.office.net
 *.dropbox.com
 lastpass.com
 *.quora.com
@@ -54,7 +54,7 @@ hydrogenaud.io
 *.redditmedia.com
 *.redditstatic.com
 *.gitlab.com
-*.live.com
+; *.live.com
 *.raindrop.io
 *.pinterest.com
 *.pinimg.com
